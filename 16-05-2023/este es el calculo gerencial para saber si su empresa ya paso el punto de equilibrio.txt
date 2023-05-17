@@ -1,0 +1,10 @@
+este es el calculo gerencial para saber si su empresa ya paso el punto de equilibrio
+
+La compañía internacional Salesforce se dio a la tarea de explicar cómo "diagnosticar" si los ingresos ya están cubriendo los gastos fijos
+
+ es la meta de sobrepasar el punto de equilibrio, , además, no genera ni pérdidas ni ganancias según señalan los expertos.
+ es el tema de un nuevo informe de la empresa internacional Salesforce, en el cual señalan que "calcular el punto de equilibrio es fundamental para las empresas, ya que esto les permite evaluar su rentabilidad. De esta forma, agregan, "es posible saber cuánto necesitan vender para generar lucro".
+Pero, ¿cuándo es conveniente hacerlo? El informe indica que saber este valor, incluso antes de empezar un nuevo proyecto, "Hacer el cálculo también ayuda a saber cuánto tiempo, aproximadamente, necesitará el negocio para empezar a obtener beneficios. Es decir, es una etapa fundamental para cualquier plan de negocios".
+Por eso, Salesforce se dio a la tarea de explicar cómo calcular ese indicador de "diagnóstico" empresarial.
+Lo primero que usted tiene que saber a la hora de aplicar la metodología, es que hay dos maneras de hacerlo: calcularlo en unidades o en valor. Y, En cuanto a la fórmula, el paso a paso es el siguiente: "dividir el costo fijo por la diferencia entre el precio unitario y el costo variable unitario. , explica Salesforce.
+El resultado que de, sería el el punto de equilibrio, esto es, el número de unidades que se deben vender para alcanzarlo. O sea que, Y es que, esto será clave, además, para poder sortear periodos de crisis como, por ejemplo, el que se dio con la pandemia. "Como ya dijimos, otro punto muy importante sobre este cálculo es que a través de este  Gracias al punto de equilibrio, es posible que las sorpresas negativas se disminuyan o sean enfrentadas con mayor rapidez y eficacia", indica el informe.

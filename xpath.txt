@@ -1,0 +1,25 @@
+links = //a/@href
+title = //h2/span/text()
+resumen = //div[@class="lead"]/p/text()
+cuerpo = //div[@class="html-content"]//p[not(@class)]/text()
+
+HOME_URL = 'https://larepublica.co/'
+XPATH_LINK_TO_ARTICLE = '//text-fill[not(@class)]/a/@href'
+XPATH_TITLE = '//div[@class="mb-auto"]/text-fill/a/text()'
+XPATH_SUMMARY = '//div[@class="lead"]/p/text()'
+XPATH_BODY = '//div[@class="news economiaSect"]/div[@class="html-content"]/p[not(@class)]/text()'
+
+
+este codigo esta funcional
+HOME_URL = 'https://www.larepublica.co/'
+XPATH_LINK_TO_ARTICLE = '//text-fill[not(@class)]/a/@href'
+XPATH_TITLE = '//div[@class="mb-auto"]/text-fill/span/text()'
+XPATH_SUMMARY = '//div[@class="lead"]/p/text()'
+XPATH_BODY = 'div[@class="html-content"]/p/text()'
+
+links de domicilios majoskar
+
+enlaces = '//footer//a/@href'
+titulo = '//div[@class="header--title-container"]/h1/text()'
+resumen = '//div[@class="product-detail--title"]/h2/text()'
+cuerpo = '//section[@class="product-cards--container"]//p/text()'
